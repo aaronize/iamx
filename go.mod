@@ -1,4 +1,4 @@
-module iamx
+module github.com/aaronize/iamx
 
 go 1.20
 
